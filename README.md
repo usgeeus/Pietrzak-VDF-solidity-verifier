@@ -17,11 +17,9 @@
 - [foundry](https://getfoundry.sh/)
   - You'll know you did it right if you can run `forge --version` and you see a response like `forge 0.2.0 (26a7559 2024-07-31T00:19:23.655582000Z)`
 
-## Quickstart
+## Install and Build
 
 ```
-git clone <repository-url>
-cd Pietrzak-VDF-solidity-verifier
 make install
 forge build
 ```
