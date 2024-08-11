@@ -1,0 +1,1306 @@
+{
+  "2048bits": {
+    "00proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        1284,
+        1284,
+        1284,
+        1284,
+        1284
+      ],
+      "gasOfFuncDispatch": [
+        2077,
+        2077,
+        2077,
+        2077,
+        2077
+      ],
+      "intrinsicGas": [
+        35580,
+        35628,
+        35628,
+        35544,
+        35604
+      ],
+      "proofLength": 0
+    },
+    "01proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        1668,
+        1668,
+        1668,
+        1668,
+        1668
+      ],
+      "gasOfFuncDispatch": [
+        2700,
+        2700,
+        2700,
+        2700,
+        2700
+      ],
+      "intrinsicGas": [
+        40188,
+        40320,
+        40320,
+        40212,
+        40284
+      ],
+      "proofLength": 1
+    },
+    "02proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        2052,
+        2052,
+        2052,
+        2052,
+        2052
+      ],
+      "gasOfFuncDispatch": [
+        3322,
+        3322,
+        3322,
+        3322,
+        3322
+      ],
+      "intrinsicGas": [
+        44856,
+        44988,
+        44940,
+        44868,
+        44928
+      ],
+      "proofLength": 2
+    },
+    "03proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        2436,
+        2436,
+        2436,
+        2436,
+        2436
+      ],
+      "gasOfFuncDispatch": [
+        3945,
+        3945,
+        3945,
+        3945,
+        3945
+      ],
+      "intrinsicGas": [
+        49500,
+        49656,
+        49596,
+        49524,
+        49584
+      ],
+      "proofLength": 3
+    },
+    "04proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        2820,
+        2820,
+        2820,
+        2820,
+        2820
+      ],
+      "gasOfFuncDispatch": [
+        4569,
+        4569,
+        4569,
+        4569,
+        4569
+      ],
+      "intrinsicGas": [
+        54180,
+        54300,
+        54252,
+        54180,
+        54264
+      ],
+      "proofLength": 4
+    },
+    "05proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        3204,
+        3204,
+        3204,
+        3204,
+        3204
+      ],
+      "gasOfFuncDispatch": [
+        5194,
+        5194,
+        5194,
+        5194,
+        5194
+      ],
+      "intrinsicGas": [
+        58824,
+        58968,
+        58908,
+        58848,
+        58932
+      ],
+      "proofLength": 5
+    },
+    "06proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        3588,
+        3588,
+        3588,
+        3588,
+        3588
+      ],
+      "gasOfFuncDispatch": [
+        5819,
+        5819,
+        5819,
+        5819,
+        5819
+      ],
+      "intrinsicGas": [
+        63492,
+        63648,
+        63564,
+        63528,
+        63600
+      ],
+      "proofLength": 6
+    },
+    "07proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        3972,
+        3972,
+        3972,
+        3972,
+        3972
+      ],
+      "gasOfFuncDispatch": [
+        6444,
+        6444,
+        6444,
+        6444,
+        6444
+      ],
+      "intrinsicGas": [
+        68148,
+        68316,
+        68220,
+        68196,
+        68256
+      ],
+      "proofLength": 7
+    },
+    "08proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        4356,
+        4356,
+        4356,
+        4356,
+        4356
+      ],
+      "gasOfFuncDispatch": [
+        7070,
+        7070,
+        7070,
+        7070,
+        7070
+      ],
+      "intrinsicGas": [
+        72816,
+        73008,
+        72900,
+        72852,
+        72936
+      ],
+      "proofLength": 8
+    },
+    "09proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        4740,
+        4740,
+        4740,
+        4740,
+        4740
+      ],
+      "gasOfFuncDispatch": [
+        7697,
+        7697,
+        7697,
+        7697,
+        7697
+      ],
+      "intrinsicGas": [
+        77472,
+        77688,
+        77556,
+        77532,
+        77580
+      ],
+      "proofLength": 9
+    },
+    "10proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        5124,
+        5124,
+        5124,
+        5124,
+        5124
+      ],
+      "gasOfFuncDispatch": [
+        8324,
+        8324,
+        8324,
+        8324,
+        8324
+      ],
+      "intrinsicGas": [
+        82140,
+        82356,
+        82236,
+        82212,
+        82260
+      ],
+      "proofLength": 10
+    },
+    "11proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        5508,
+        5508,
+        5508,
+        5508,
+        5508
+      ],
+      "gasOfFuncDispatch": [
+        8952,
+        8952,
+        8952,
+        8952,
+        8952
+      ],
+      "intrinsicGas": [
+        86808,
+        87036,
+        86904,
+        86880,
+        86904
+      ],
+      "proofLength": 11
+    },
+    "12proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        5892,
+        5892,
+        5892,
+        5892,
+        5892
+      ],
+      "gasOfFuncDispatch": [
+        9580,
+        9580,
+        9580,
+        9580,
+        9580
+      ],
+      "intrinsicGas": [
+        91476,
+        91716,
+        91560,
+        91524,
+        91560
+      ],
+      "proofLength": 12
+    },
+    "13proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        6276,
+        6276,
+        6276,
+        6276,
+        6276
+      ],
+      "gasOfFuncDispatch": [
+        10209,
+        10209,
+        10209,
+        10209,
+        10209
+      ],
+      "intrinsicGas": [
+        96108,
+        96372,
+        96228,
+        96168,
+        96216
+      ],
+      "proofLength": 13
+    },
+    "14proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        6660,
+        6660,
+        6660,
+        6660,
+        6660
+      ],
+      "gasOfFuncDispatch": [
+        10838,
+        10838,
+        10838,
+        10838,
+        10838
+      ],
+      "intrinsicGas": [
+        100800,
+        101064,
+        100896,
+        100836,
+        100896
+      ],
+      "proofLength": 14
+    },
+    "15proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        7044,
+        7044,
+        7044,
+        7044,
+        7044
+      ],
+      "gasOfFuncDispatch": [
+        11468,
+        11468,
+        11468,
+        11468,
+        11468
+      ],
+      "intrinsicGas": [
+        105444,
+        105732,
+        105552,
+        105504,
+        105564
+      ],
+      "proofLength": 15
+    },
+    "16proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        7428,
+        7428,
+        7428,
+        7428,
+        7428
+      ],
+      "gasOfFuncDispatch": [
+        12099,
+        12099,
+        12099,
+        12099,
+        12099
+      ],
+      "intrinsicGas": [
+        110088,
+        110412,
+        110232,
+        110184,
+        110232
+      ],
+      "proofLength": 16
+    },
+    "17proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        7812,
+        7812,
+        7812,
+        7812,
+        7812
+      ],
+      "gasOfFuncDispatch": [
+        12730,
+        12730,
+        12730,
+        12730,
+        12730
+      ],
+      "intrinsicGas": [
+        114744,
+        115068,
+        114888,
+        114840,
+        114888
+      ],
+      "proofLength": 17
+    },
+    "18proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        8196,
+        8196,
+        8196,
+        8196,
+        8196
+      ],
+      "gasOfFuncDispatch": [
+        13362,
+        13362,
+        13362,
+        13362,
+        13362
+      ],
+      "intrinsicGas": [
+        119412,
+        119736,
+        119544,
+        119508,
+        119568
+      ],
+      "proofLength": 18
+    },
+    "19proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        8580,
+        8580,
+        8580,
+        8580,
+        8580
+      ],
+      "gasOfFuncDispatch": [
+        13994,
+        13994,
+        13994,
+        13994,
+        13994
+      ],
+      "intrinsicGas": [
+        124092,
+        124392,
+        124224,
+        124164,
+        124224
+      ],
+      "proofLength": 19
+    },
+    "20proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        8964,
+        8964,
+        8964,
+        8964,
+        8964
+      ],
+      "gasOfFuncDispatch": [
+        14627,
+        14627,
+        14627,
+        14627,
+        14627
+      ],
+      "intrinsicGas": [
+        128760,
+        129072,
+        128904,
+        128820,
+        128892
+      ],
+      "proofLength": 20
+    },
+    "21proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        9348,
+        9348,
+        9348,
+        9348,
+        9348
+      ],
+      "gasOfFuncDispatch": [
+        15260,
+        15260,
+        15260,
+        15260,
+        15260
+      ],
+      "intrinsicGas": [
+        133428,
+        133740,
+        133560,
+        133464,
+        133560
+      ],
+      "proofLength": 21
+    },
+    "22proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        9732,
+        9732,
+        9732,
+        9732,
+        9732
+      ],
+      "gasOfFuncDispatch": [
+        15894,
+        15894,
+        15894,
+        15894,
+        15894
+      ],
+      "intrinsicGas": [
+        138120,
+        138420,
+        138252,
+        138144,
+        138216
+      ],
+      "proofLength": 22
+    },
+    "23proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        10116,
+        10116,
+        10116,
+        10116,
+        10116
+      ],
+      "gasOfFuncDispatch": [
+        16528,
+        16528,
+        16528,
+        16528,
+        16528
+      ],
+      "intrinsicGas": [
+        142776,
+        143088,
+        142908,
+        142788,
+        142872
+      ],
+      "proofLength": 23
+    },
+    "24proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        10500,
+        10500,
+        10500,
+        10500,
+        10500
+      ],
+      "gasOfFuncDispatch": [
+        17163,
+        17163,
+        17163,
+        17163,
+        17163
+      ],
+      "intrinsicGas": [
+        147444,
+        147768,
+        147564,
+        147456,
+        147540
+      ],
+      "proofLength": 24
+    },
+    "25proofLength": {
+      "bits": 2048,
+      "calldataLength": [
+        10884,
+        10884,
+        10884,
+        10884,
+        10884
+      ],
+      "gasOfFuncDispatch": [
+        17799,
+        17799,
+        17799,
+        17799,
+        17799
+      ],
+      "intrinsicGas": [
+        152088,
+        152424,
+        152232,
+        152112,
+        152196
+      ],
+      "proofLength": 25
+    }
+  },
+  "3072bits": {
+    "00proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        1668,
+        1668,
+        1668,
+        1668,
+        1668
+      ],
+      "gasOfFuncDispatch": [
+        2152,
+        2152,
+        2152,
+        2152,
+        2152
+      ],
+      "intrinsicGas": [
+        41760,
+        41772,
+        41748,
+        41712,
+        41772
+      ],
+      "proofLength": 0
+    },
+    "01proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        2180,
+        2180,
+        2180,
+        2180,
+        2180
+      ],
+      "gasOfFuncDispatch": [
+        2799,
+        2799,
+        2799,
+        2799,
+        2799
+      ],
+      "intrinsicGas": [
+        48500,
+        48476,
+        48476,
+        48428,
+        48500
+      ],
+      "proofLength": 1
+    },
+    "02proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        2692,
+        2692,
+        2692,
+        2692,
+        2692
+      ],
+      "gasOfFuncDispatch": [
+        3448,
+        3448,
+        3448,
+        3448,
+        3448
+      ],
+      "intrinsicGas": [
+        55216,
+        55204,
+        55180,
+        55132,
+        55240
+      ],
+      "proofLength": 2
+    },
+    "03proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        3204,
+        3204,
+        3204,
+        3204,
+        3204
+      ],
+      "gasOfFuncDispatch": [
+        4098,
+        4098,
+        4098,
+        4098,
+        4098
+      ],
+      "intrinsicGas": [
+        61944,
+        61932,
+        61908,
+        61872,
+        61968
+      ],
+      "proofLength": 3
+    },
+    "04proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        3716,
+        3716,
+        3716,
+        3716,
+        3716
+      ],
+      "gasOfFuncDispatch": [
+        4748,
+        4748,
+        4748,
+        4748,
+        4748
+      ],
+      "intrinsicGas": [
+        68684,
+        68648,
+        68612,
+        68564,
+        68696
+      ],
+      "proofLength": 4
+    },
+    "05proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        4228,
+        4228,
+        4228,
+        4228,
+        4228
+      ],
+      "gasOfFuncDispatch": [
+        5400,
+        5400,
+        5400,
+        5400,
+        5400
+      ],
+      "intrinsicGas": [
+        75412,
+        75376,
+        75340,
+        75268,
+        75412
+      ],
+      "proofLength": 5
+    },
+    "06proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        4740,
+        4740,
+        4740,
+        4740,
+        4740
+      ],
+      "gasOfFuncDispatch": [
+        6053,
+        6053,
+        6053,
+        6053,
+        6053
+      ],
+      "intrinsicGas": [
+        82152,
+        82104,
+        82080,
+        81936,
+        82140
+      ],
+      "proofLength": 6
+    },
+    "07proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        5252,
+        5252,
+        5252,
+        5252,
+        5252
+      ],
+      "gasOfFuncDispatch": [
+        6706,
+        6706,
+        6706,
+        6706,
+        6706
+      ],
+      "intrinsicGas": [
+        88892,
+        88832,
+        88760,
+        88664,
+        88868
+      ],
+      "proofLength": 7
+    },
+    "08proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        5764,
+        5764,
+        5764,
+        5764,
+        5764
+      ],
+      "gasOfFuncDispatch": [
+        7361,
+        7361,
+        7361,
+        7361,
+        7361
+      ],
+      "intrinsicGas": [
+        95608,
+        95572,
+        95488,
+        95380,
+        95596
+      ],
+      "proofLength": 8
+    },
+    "09proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        6276,
+        6276,
+        6276,
+        6276,
+        6276
+      ],
+      "gasOfFuncDispatch": [
+        8017,
+        8017,
+        8017,
+        8017,
+        8017
+      ],
+      "intrinsicGas": [
+        102348,
+        102276,
+        102192,
+        102108,
+        102324
+      ],
+      "proofLength": 9
+    },
+    "10proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        6788,
+        6788,
+        6788,
+        6788,
+        6788
+      ],
+      "gasOfFuncDispatch": [
+        8673,
+        8673,
+        8673,
+        8673,
+        8673
+      ],
+      "intrinsicGas": [
+        109064,
+        109004,
+        108932,
+        108824,
+        109028
+      ],
+      "proofLength": 10
+    },
+    "11proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        7300,
+        7300,
+        7300,
+        7300,
+        7300
+      ],
+      "gasOfFuncDispatch": [
+        9331,
+        9331,
+        9331,
+        9331,
+        9331
+      ],
+      "intrinsicGas": [
+        115804,
+        115744,
+        115648,
+        115564,
+        115732
+      ],
+      "proofLength": 11
+    },
+    "12proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        7812,
+        7812,
+        7812,
+        7812,
+        7812
+      ],
+      "gasOfFuncDispatch": [
+        9990,
+        9990,
+        9990,
+        9990,
+        9990
+      ],
+      "intrinsicGas": [
+        122520,
+        122460,
+        122352,
+        122280,
+        122424
+      ],
+      "proofLength": 12
+    },
+    "13proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        8324,
+        8324,
+        8324,
+        8324,
+        8324
+      ],
+      "gasOfFuncDispatch": [
+        10650,
+        10650,
+        10650,
+        10650,
+        10650
+      ],
+      "intrinsicGas": [
+        129236,
+        129176,
+        129068,
+        129008,
+        129164
+      ],
+      "proofLength": 13
+    },
+    "14proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        8836,
+        8836,
+        8836,
+        8836,
+        8836
+      ],
+      "gasOfFuncDispatch": [
+        11310,
+        11310,
+        11310,
+        11310,
+        11310
+      ],
+      "intrinsicGas": [
+        135964,
+        135904,
+        135808,
+        135724,
+        135856
+      ],
+      "proofLength": 14
+    },
+    "15proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        9348,
+        9348,
+        9348,
+        9348,
+        9348
+      ],
+      "gasOfFuncDispatch": [
+        11972,
+        11972,
+        11972,
+        11972,
+        11972
+      ],
+      "intrinsicGas": [
+        142704,
+        142632,
+        142548,
+        142428,
+        142596
+      ],
+      "proofLength": 15
+    },
+    "16proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        9860,
+        9860,
+        9860,
+        9860,
+        9860
+      ],
+      "gasOfFuncDispatch": [
+        12635,
+        12635,
+        12635,
+        12635,
+        12635
+      ],
+      "intrinsicGas": [
+        149420,
+        149312,
+        149264,
+        149144,
+        149288
+      ],
+      "proofLength": 16
+    },
+    "17proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        10372,
+        10372,
+        10372,
+        10372,
+        10372
+      ],
+      "gasOfFuncDispatch": [
+        13298,
+        13298,
+        13298,
+        13298,
+        13298
+      ],
+      "intrinsicGas": [
+        156148,
+        156028,
+        155992,
+        155848,
+        156016
+      ],
+      "proofLength": 17
+    },
+    "18proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        10884,
+        10884,
+        10884,
+        10884,
+        10884
+      ],
+      "gasOfFuncDispatch": [
+        13963,
+        13963,
+        13963,
+        13963,
+        13963
+      ],
+      "intrinsicGas": [
+        162876,
+        162756,
+        162696,
+        162564,
+        162744
+      ],
+      "proofLength": 18
+    },
+    "19proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        11396,
+        11396,
+        11396,
+        11396,
+        11396
+      ],
+      "gasOfFuncDispatch": [
+        14629,
+        14629,
+        14629,
+        14629,
+        14629
+      ],
+      "intrinsicGas": [
+        169580,
+        169484,
+        169424,
+        169292,
+        169448
+      ],
+      "proofLength": 19
+    },
+    "20proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        11908,
+        11908,
+        11908,
+        11908,
+        11908
+      ],
+      "gasOfFuncDispatch": [
+        15295,
+        15295,
+        15295,
+        15295,
+        15295
+      ],
+      "intrinsicGas": [
+        176320,
+        176188,
+        176128,
+        176032,
+        176176
+      ],
+      "proofLength": 20
+    },
+    "21proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        12420,
+        12420,
+        12420,
+        12420,
+        12420
+      ],
+      "gasOfFuncDispatch": [
+        15963,
+        15963,
+        15963,
+        15963,
+        15963
+      ],
+      "intrinsicGas": [
+        183036,
+        182892,
+        182868,
+        182724,
+        182916
+      ],
+      "proofLength": 21
+    },
+    "22proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        12932,
+        12932,
+        12932,
+        12932,
+        12932
+      ],
+      "gasOfFuncDispatch": [
+        16632,
+        16632,
+        16632,
+        16632,
+        16632
+      ],
+      "intrinsicGas": [
+        189740,
+        189620,
+        189572,
+        189440,
+        189656
+      ],
+      "proofLength": 22
+    },
+    "23proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        13444,
+        13444,
+        13444,
+        13444,
+        13444
+      ],
+      "gasOfFuncDispatch": [
+        17301,
+        17301,
+        17301,
+        17301,
+        17301
+      ],
+      "intrinsicGas": [
+        196456,
+        196324,
+        196264,
+        196156,
+        196384
+      ],
+      "proofLength": 23
+    },
+    "24proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        13956,
+        13956,
+        13956,
+        13956,
+        13956
+      ],
+      "gasOfFuncDispatch": [
+        17972,
+        17972,
+        17972,
+        17972,
+        17972
+      ],
+      "intrinsicGas": [
+        203172,
+        203040,
+        202968,
+        202860,
+        203112
+      ],
+      "proofLength": 24
+    },
+    "25proofLength": {
+      "bits": 3072,
+      "calldataLength": [
+        14468,
+        14468,
+        14468,
+        14468,
+        14468
+      ],
+      "gasOfFuncDispatch": [
+        18644,
+        18644,
+        18644,
+        18644,
+        18644
+      ],
+      "intrinsicGas": [
+        209864,
+        209732,
+        209660,
+        209564,
+        209840
+      ],
+      "proofLength": 25
+    }
+  }
+}
