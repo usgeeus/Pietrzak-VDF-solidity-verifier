@@ -16,4 +16,8 @@
 
 install :; forge install OpenZeppelin/openzeppelin-contracts --no-commit
 
-test:; forge test --isolate --gas-limit 9999999999999999999
+test: test-pietrzak test-prime
+
+test-pietrzak:; forge test --mp test/Pietrzak.t.sol --isolate --gas-limit 9999999999999999999
+
+test-prime:; forge test --mp test/PrimeTest.t.sol --gas-limit 9999999999999999999 --gas-report

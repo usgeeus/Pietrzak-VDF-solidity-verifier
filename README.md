@@ -4,10 +4,10 @@
 
 <pre>
 ├── lib: Contains dependencies managed as Git submodules.
-├── src: The main directory for contracts, including MinimalPietrzak.sol.
+├── src: The main directory for contracts, including MinimalPietrzak.sol and PrimeTest.t.sol.
 │   ├── libraries: libraries such as BigNumbers.sol and PietrzakLibrary.sol.
-├── test: Includes Pietrzak.t.sol, for generating JSON files.
-│   ├── shared: Contains test cases for the Pietrzak VDF and utility function contracts.
+├── test: Includes Pietrzak.t.sol, for generating JSON files and PrimeTest.t.sol for printing the results on console.
+│   ├── shared: Contains test cases for the Pietrzak VDF and Primality Test, and utility function contracts.
 </pre>
 
 ## Requirements
@@ -42,3 +42,7 @@ This test command generates the following JSON files:
   - Contains the results of measuring the calldata length, intrinsic gas, and function dispatch gasUsed for 2048-bit and 3072-bit data sizes. The proof length varies from 0 to 25, across 5 different test cases.
 - Pietrzak_Halving_ModExp_TotalGasUsed.json
   - Contains the results of gasUsed measurements for 2048-bit and 3072-bit data sizes. The `delta` parameter ranges from 0 to 19, with proof lengths varying from 6 to 25, across 5 different test cases. The measurements include the Halving part, ModExp part, and the total gasUsed.
+
+This test command also prints the result of Prime Test:
+
+<img src="PrimeTestGasUsed.png" alt="PrimeTestGasUsed" width="500"/>
